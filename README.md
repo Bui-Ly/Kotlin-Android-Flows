@@ -5,7 +5,7 @@
 * [Singleton instantiation](#singleton-instantiation)
 
 
-## Installation
+## Singleton instantiation
 
 ```bash
 class SoneSingleton private constructor(){
