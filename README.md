@@ -7,7 +7,7 @@
 
 ## Singleton instantiation
 
-```bash
+```Kotlin
 class SoneSingleton private constructor(){
 
     companion object {
