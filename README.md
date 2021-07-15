@@ -7,7 +7,7 @@
 
 ## Singleton instantiation
 
-```Kotlin
+```kotlin
 class SoneSingleton private constructor(){
 
     companion object {
